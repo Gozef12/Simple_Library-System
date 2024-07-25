@@ -1,0 +1,17 @@
+{
+    "name": "youse/php_project",
+    "description": "simple library management in php.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yousef alkhayat",
+            "email": "yousefkhayyat7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "php_project\\": "src/"
+        }
+    }
+}
